@@ -1,6 +1,10 @@
 [
-  { "ID": 0, "IDLink": "http://example.com/id0", "BC": 1001, "BCLink": "http://example.com/bc1001", "IMG": 5 },
+  { "ID": 0, "IDLink": "http://example.com/id0", "BC": 1001, "BCLink": "http://example.com/bc1001", "IMG": 0 },
   { "ID": 1, "IDLink": "http://example.com/id1", "BC": 1002, "BCLink": "http://example.com/bc1002", "IMG": 6 },
-  { "ID": 2, "IDLink": "http://example.com/id2", "BC": 1003, "BCLink": "http://example.com/bc1003", "IMG": 5 }
+  { "ID": 2, "IDLink": "http://example.com/id2", "BC": 1003, "BCLink": "http://example.com/bc1003", "IMG": 5 },
+  
+  { "ID": 3, "IDLink": "http://example.com/id0", "BC": 1011, "BCLink": "http://example.com/bc1001", "IMG": 3 },
+  { "ID": 4, "IDLink": "http://example.com/id1", "BC": 1012, "BCLink": "http://example.com/bc1002", "IMG": 1 },
+  { "ID": 5, "IDLink": "http://example.com/id2", "BC": 1013, "BCLink": "http://example.com/bc1003", "IMG": 5 }
 
 ]
