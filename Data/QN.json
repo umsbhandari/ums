@@ -1,0 +1,6 @@
+[
+  { "ID": 0, "IDLink": "http://example.com/id0", "BC": 1001, "BCLink": "http://example.com/bc1001", "IMG": 5 },
+  { "ID": 1, "IDLink": "http://example.com/id1", "BC": 1002, "BCLink": "http://example.com/bc1002", "IMG": 6 },
+  { "ID": 2, "IDLink": "http://example.com/id2", "BC": 1003, "BCLink": "http://example.com/bc1003", "IMG": 5 }
+
+]
